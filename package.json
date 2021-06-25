@@ -1,0 +1,24 @@
+{
+  "name": "techpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surekhag/TechPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surekhag/TechPractice/issues"
+  },
+  "homepage": "https://github.com/surekhag/TechPractice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.64.0"
+  }
+}
